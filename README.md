@@ -1,2 +1,2 @@
-# nullteh.github.io
+# CTF Writeups
 A Collection of CTF Write-Ups
