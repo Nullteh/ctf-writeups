@@ -1,8 +1,8 @@
 # CTF Writeups Archive
 A Collection of CTF Write-Ups that I have participated and documented
 
-### 🏆 IBOH 2025
-* [IBOH2025](IBOH25/IBOH25.MD)
+### 🏆 IBOH25
+* [IBOH25](IBOH25/IBOH25.MD)
 
 ### 🏆 SIBER SIAGA 2025
 * [Round 1](SIBER%20SIAGA%202025/SIBER%20SIAGA%202025%20Round%201.MD)
