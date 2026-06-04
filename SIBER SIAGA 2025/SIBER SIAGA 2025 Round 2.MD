@@ -274,7 +274,7 @@ with open("recovered_keystream.bin", "wb") as f:
     f.write(bytes(keystream))
 print("\nSaved keystream (with 0x00 for unknowns) to recovered_keystream.bin")
 print("You can edit that file with discovered bytes and re-run the decode loop for improved results.")
-```|
+```
 
 Initial Results:
 
@@ -385,8 +385,8 @@ Usage:
   python3 decrypt\_firmware\_fixed.py \--in firmware.enc \--key tCncHUA7iMUCHqQ9bMGTjg==
 
 Requires: pip3 install pycryptodome  
-"""
 
+```python
 import argparse  
 import base64  
 import os  
@@ -482,3 +482,4 @@ def main():
 
 if \_\_name\_\_ \== "\_\_main\_\_":  
     main()
+```
