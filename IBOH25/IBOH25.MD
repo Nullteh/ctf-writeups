@@ -67,4 +67,4 @@ Flag is behind the large text block
 ## **Bleep Bloop**
 
 Decode the sound with **RX-SSTV**  
-![](images_IBOH25/16.png)
+![](images_IBOH25/16.jng)
