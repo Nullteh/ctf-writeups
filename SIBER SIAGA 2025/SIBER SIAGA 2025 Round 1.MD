@@ -1,7 +1,5 @@
 # **Whiteberry** SIBER SIAGA Writeup Sept 2025
 
-# 
-
 # REVERSE
 
 ## GUESS PWD
