@@ -1,7 +1,5 @@
 # IBOH25 Write-up \- Whiteberry
 
-# 
-
 # Forensic
 
 ## **Bloom**
